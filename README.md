@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iMacG5-FireyIncorporated
-- 👀 I’m interested in Animation and Programming in many different programmig languages
+- 👀 I’m interested in Animation and Programming in many different programming languages
 - 🌱 I’m currently learning Adobe Animate
 - 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me Contect me at fireyincorporated@gmail.com
