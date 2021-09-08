@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @iMacG5-FireyIncorporated
-- 👀 I’m interested in Animation and Programming in many different programming languages
-- 🌱 I’m currently learning Adobe Animate
-- 💞️ I’m looking to collaborate on nothing right now.
-- 📫 How to reach me Contect me at fireyincorporated@gmail.com
+#Hello!
+  
+My name is Aryan Tadepalli, and I like to program little games, and other things. All my current projects will be up on it's own repository.
+Most of these might not be updated. FireyBot being one.
 
 <!---
 iMacG5-FireyIncorporated/iMacG5-FireyIncorporated is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
